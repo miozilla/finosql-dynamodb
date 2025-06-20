@@ -9,19 +9,19 @@ Query DynamoDB table.
 
 ## NOSQL DynamoDB
 
-![sagemaker-genai001.png](./media/sagemaker-genai001.png)
+![finosql-dynamodb001.png](./media/finosql-dynamodb001.png)
 
-![sagemaker-genai002.png](./media/sagemaker-genai002.png)
+![finosql-dynamodb002.png](./media/finosql-dynamodb002.png)
 
-![sagemaker-genai003.png](./media/sagemaker-genai003.png)
+![finosql-dynamodb003.png](./media/finosql-dynamodb003.png)
 
-![sagemaker-genai004.png](./media/sagemaker-genai004.png)
+![finosql-dynamodb004.png](./media/finosql-dynamodb004.png)
 
-![sagemaker-genai005.png](./media/sagemaker-genai005.png)
+![finosql-dynamodb005.png](./media/finosql-dynamodb005.png)
 
-![sagemaker-genai006.png](./media/sagemaker-genai006.png)
+![finosql-dynamodb006.png](./media/finosql-dynamodb006.png)
 
-![sagemaker-genai007.png](./media/sagemaker-genai007.png)
+![finosql-dynamodb007.png](./media/finosql-dynamodb007.png)
 
-![sagemaker-genai008.png](./media/sagemaker-genai008.png)
+![finosql-dynamodb008.png](./media/finosql-dynamodb008.png)
 
