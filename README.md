@@ -1,4 +1,4 @@
-# finosql-dynamodb
+# finosql-dynamodb 🧴
 finosql-dynamodb
 
 ## Objective
