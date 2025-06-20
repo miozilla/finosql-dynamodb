@@ -25,3 +25,4 @@ Query DynamoDB table.
 
 ![finosql-dynamodb008.png](./media/finosql-dynamodb008.png)
 
+![finosql-dynamodb009.png](./media/finosql-dynamodb009.png)
