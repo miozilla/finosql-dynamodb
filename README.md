@@ -5,7 +5,7 @@ finosql-dynamodb
 - To create a NoSQL database as an Amazon DynamoDB table.
 - Add records (dynamic schema) to table.
 - Query DynamoDB table.
-- Amazon DynamoDB Similar Services/Technology : Google Bigtable, Cosmos DB , Apache Cassandra, MongoDB, Redis, Neo4j, Apache HBase
+- Amazon DynamoDB Similar Services/Technology : Google Bigtable, Azure Cosmos DB , Apache Cassandra, MongoDB, Redis, Neo4j, Apache HBase
 
 
 ## NOSQL DynamoDB
